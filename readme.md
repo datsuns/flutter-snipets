@@ -15,3 +15,8 @@ https://flutter.dev/docs
 
 https://flutter.dev/docs/development/ui/layout/tutorial
 
+# words
+
+# Scaffold
+
+* バーとか作ってくれる
