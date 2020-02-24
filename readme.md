@@ -15,8 +15,12 @@ https://flutter.dev/docs
 
 https://flutter.dev/docs/development/ui/layout/tutorial
 
+# package manager
+
+* pubspec.yaml
+
 # words
 
-# Scaffold
+## Scaffold
 
 * バーとか作ってくれる
